@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vsuraj25
 - 👀 I’m a Data Science aspirant and on my path towards it.
 - 🌱 I’m currently learning Data Science, through various courses and self education.
-- 💞️ I’m currently working on projects for dirrfents aspects in the data science field.
+- 💞️ I’m currently working on projects for different aspects in the data science field.
 - 📫 You can reach me through my email - sv255255@gmail.com
 
 <!---
